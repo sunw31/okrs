@@ -1,0 +1,27 @@
+{
+    "$schema": "https://sunw31.github.io/okrs/schema.json",
+    "year": 2023,
+    "quarter": 3,
+    "objectives": [
+      {
+        "name": "坚持雅思单词背完",
+        "key_results": [
+          {
+            "name": "坚持雅思单词背完",
+            "target_result": 5320,
+            "current_result": 1168
+          }
+        ]
+      },
+      {
+        "name": "减脂吃蛋白做拉伸",
+        "key_results": [
+          {
+            "name": "减脂吃蛋白做拉伸",
+            "target_result": 17,
+            "current_result": 0.5
+          }
+        ]
+      }
+    ]
+}
