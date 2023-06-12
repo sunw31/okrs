@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2023-06-12T12:49:49.710Z",
+  "updatedAt": "2023-06-12T13:06:19.429Z",
   "years": [
     {
       "name": 2023,
-      "progress": 0.26,
-      "success": 0.58,
+      "progress": 0.28,
+      "success": 0.62,
       "quarters": [
         {
           "name": 3,
-          "progress": 0.26,
-          "success": -1.27,
+          "progress": 0.28,
+          "success": -1.37,
           "objectives": [
             {
               "name": "雅思单词5320个",
@@ -34,15 +34,22 @@
             },
             {
               "name": "减脂吃蛋白做拉伸",
-              "progress": 0.01,
-              "success": -0.05,
+              "progress": 0.05,
+              "success": -0.25,
               "key_results": [
                 {
-                  "name": "减脂吃蛋白做拉伸",
-                  "current_result": 0.1,
+                  "name": "减脂吃蛋白",
+                  "current_result": 0.5,
                   "target_result": 10,
-                  "progress": 0.01,
-                  "success": -0.05
+                  "progress": 0.05,
+                  "success": -0.25
+                },
+                {
+                  "name": "吃蛋白做拉伸",
+                  "current_result": 0.5,
+                  "target_result": 10,
+                  "progress": 0.05,
+                  "success": -0.25
                 }
               ]
             }
