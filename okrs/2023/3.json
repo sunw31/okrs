@@ -4,12 +4,17 @@
     "quarter": 3,
     "objectives": [
       {
-        "name": "坚持雅思单词背完",
+        "name": "雅思单词5320个",
         "key_results": [
           {
-            "name": "坚持雅思单词背完",
-            "target_result": 5320,
-            "current_result": 1168
+            "name": "1168个",
+            "target_result": 10,
+            "current_result": 10
+          },
+          {
+            "name": "1152个",
+            "target_result": 10,
+            "current_result": 0
           }
         ]
       },
@@ -18,8 +23,8 @@
         "key_results": [
           {
             "name": "减脂吃蛋白做拉伸",
-            "target_result": 17,
-            "current_result": 0.5
+            "target_result": 10,
+            "current_result": 0.1
           }
         ]
       }
