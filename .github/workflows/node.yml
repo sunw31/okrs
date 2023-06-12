@@ -24,12 +24,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: Generate API and README summary [skip ci]"
-          commit_user_name: FindingAnand
-          commit_user_email: bot@anandchowdhary.com
-          commit_author: FindingAnand <bot@anandchowdhary.com>
-      - name: Dispatch AnandChowdhary/everything update
-        uses: benc-uk/workflow-dispatch@v1.2.2
-        with:
-          repo: AnandChowdhary/everything
-          workflow: api.yml
-          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
+          commit_user_name: RobotWu
+          commit_user_email: sunw31@163.com
+          commit_author: RobotWu <sunw31@163.com>
+      
