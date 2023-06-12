@@ -93,7 +93,7 @@ Using GitHub Actions, `api.json` and `README.md` will be auto-generated. When cr
 }
 ```
 
-You can use the git commit history as a way to track progress of an OKR, for example looking at the history of my Q4 2021 OKRs: https://github.github.io/sunw31/okrs/commits/main/okrs/2021/4.json. A more sophisticated system can be set up that tracks changes to one line using `git log` like so:
+You can use the git commit history as a way to track progress of an OKR, for example looking at the history of my Q4 2021 OKRs: https://github.com/sunw31/okrs/commits/main/okrs/2021/4.json. A more sophisticated system can be set up that tracks changes to one line using `git log` like so:
 
 ```bash
 git log -L17,+1:'okrs/2021/4.json'
@@ -101,6 +101,6 @@ git log -L17,+1:'okrs/2021/4.json'
 
 ## 📄 License
 
-- Code in the `scripts` directory: [MIT](./LICENSE) © [Anand Chowdhary](https://sunw31.github.io)
-- Content in the `okrs` directory: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © [Anand Chowdhary](https://sunw31.github.io)
+- Code in the `scripts` directory: [MIT](./LICENSE) © Anand Chowdhary
+- Content in the `okrs` directory: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © Anand Chowdhary
 - "GitHub" is a trademark of GitHub, Inc.

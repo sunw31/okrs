@@ -22,9 +22,14 @@
         "name": "减脂吃蛋白做拉伸",
         "key_results": [
           {
-            "name": "减脂吃蛋白做拉伸",
+            "name": "减脂吃蛋白",
             "target_result": 10,
-            "current_result": 0.1
+            "current_result": 0.5
+          },
+          {
+            "name": "吃蛋白做拉伸",
+            "target_result": 10,
+            "current_result": 0.5
           }
         ]
       }
