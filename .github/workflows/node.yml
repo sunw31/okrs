@@ -24,7 +24,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: Generate API and README summary [skip ci]"
-          commit_user_name: sunw31
+          commit_user_name: robot_sunw31
           commit_user_email: sunw31@163.com
-          commit_author: sunw31 <sunw31@163.com>
+          commit_author: robot_sunw31 <sunw31@163.com>
       
